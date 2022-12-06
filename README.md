@@ -1,4 +1,4 @@
-# Laravel-7-Yajra-Datatables-Example
+ Laravel-7-Yajra-Datatables-Example
 
 Step-1 : composer create-project --prefer-dist laravel/laravel:^7.0 Laravel-7-Yajra-Datatables-Example
 Step-2 : composer require yajra/laravel-datatables-oracle
